@@ -11,6 +11,7 @@
 ### [Check out my Résumé](https://drive.google.com/file/d/1yK3xWICROUa1TZU1tIwZHbSgJHVM5_Af/view) 📝
 
 ### Get in touch 💬  
+#### [My website](https://kartik0198.github.io/) 🤖
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/kartiksinghal98/)](https://www.linkedin.com/in/rob729/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kartik0198&&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=191919">
