@@ -1,5 +1,3 @@
-<img src="https://github.com/kartik0198/kartik0198/blob/master/banner.png?raw=true" />
-
 ## Hi there, I'm Kartik Singhal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## A Passionate Android Developer
