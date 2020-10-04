@@ -15,3 +15,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/kartiksinghal98/)](https://www.linkedin.com/in/rob729/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kartik0198&&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=191919">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik0198&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
